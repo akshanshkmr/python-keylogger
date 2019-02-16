@@ -11,4 +11,4 @@ Steps:
 
 3.A text file named key_logs will be created in the same folder containing the key logs
 
-*You will need python 2.7 or above for this to work*
+*You will need pynput library for this to work*
